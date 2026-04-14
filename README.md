@@ -1,4 +1,4 @@
-# All In – AI Code Evaluation Platform 🚀
+# All In – AI Code Evaluation Platform 
 
 All In is an AI-powered coding evaluation and feedback platform built to enhance how learners practice programming. It provides instant, meaningful feedback on submitted code and encourages improvement through insights, scoring, and leaderboards.
 
